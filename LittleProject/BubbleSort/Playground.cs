@@ -17,6 +17,7 @@ namespace LittleProject
                 Console.Write(arr[i] + " ");
             }
 
+            
 
             for(i = 0; i < arr.Length; i++)
             {
